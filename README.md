@@ -1,2 +1,2 @@
-# Atividade-CSS
-Atividade CSS 18/11
+# Atividade-HTML/CSS
+Atividades de HTML e CSS
